@@ -1,0 +1,171 @@
+{
+  "cooperated": [
+    {
+      "id": 1,
+      "name": "Laís Isabella Ribeiro",
+      "age": 20,
+      "cpf": "59251792500",
+      "birthDate": "06/01/2003",
+      "sexo": "Feminino",
+      "email": "laisisabellaribeiro@konzeption.com.br",
+      "zipCode": "69008414",
+      "phone": "92997091050",
+      "situation": 0
+    },
+
+    {
+      "id": 2,
+      "name": "Breno Marcelo Caleb Rezende",
+      "age": 76,
+      "cpf": "41852809558",
+      "birthDate": "17/01/1947",
+      "sexo": "Masculino",
+      "email": "breno_marcelo_rezende@harmoniacontabil.com.br",
+      "zipCode": "59067340",
+      "phone": "84987004267",
+      "situation": 0
+    },
+
+    {
+      "id": 3,
+      "name": "Kaique Sebastião Figueiredo",
+      "age": 42,
+      "cpf": "99162990993",
+      "birthDate": "15/01/1981",
+      "sexo": "Masculino",
+      "email": "kaique_figueiredo@dlhde",
+      "zipCode": "79904382",
+      "phone": "67988502205",
+      "situation": 1
+    },
+
+    {
+      "id": 4,
+      "name": "Elza Alice Jennifer Campos",
+      "age": 50,
+      "cpf": "72427651290",
+      "birthDate": "08/01/1973",
+      "sexo": "Feminino",
+      "email": "elzaalicecampos@viamoc.com.br",
+      "zipCode": "73015342",
+      "phone": "61983056597",
+      "situation": 1
+    },
+
+    {
+      "id": 5,
+      "name": "Josefa Renata Nascimento",
+      "age": 56,
+      "cpf": "11709147300",
+      "birthDate": "14/01/1967",
+      "sexo": "Feminino",
+      "email": "josefanascimento75@msn.com",
+      "zipCode": "60875670",
+      "phone": "85988462559",
+      "situation": 0
+    },
+
+    {
+      "id": 6,
+      "name": "Andreia Jaqueline Fabiana",
+      "age": 32,
+      "cpf": "95258462617",
+      "birthDate": "03/01/1991",
+      "sexo": "Feminino",
+      "email": "andreiajaquelinedasneves@pop.com.br",
+      "zipCode": "88815265",
+      "phone": "48987738823",
+      "situation": 1
+    }
+  ],
+
+  "applicationAccount": [
+    {
+      "id": 1,
+      "currentAccount": "377622",
+      "agency": "7815",
+      "bank": "Itaú",
+      "cooperatedId": 1
+    },
+    {
+      "id": 2,
+      "currentAccount": "00995363",
+      "agency": "5415",
+      "bank": "Bradesco",
+      "cooperatedId": 2
+    },
+    {
+      "id": 3,
+      "currentAccount": "933343",
+      "agency": "8324",
+      "bank": "Itaú",
+      "cooperatedId": 3
+    },
+    {
+      "id": 4,
+      "currentAccount": "053832145",
+      "agency": "2108",
+      "bank": "Santander",
+      "cooperatedId": 4
+    },
+    {
+      "id": 5,
+      "currentAccount": "10955690",
+      "agency": "3184",
+      "bank": "Banco do Brasil",
+      "cooperatedId": 5
+    },
+    {
+      "id": 6,
+      "currentAccount": "993247",
+      "agency": "5891",
+      "bank": "Banco do Brasil",
+      "cooperatedId": 6
+    }
+  ],
+
+  "currentAccount": [
+    {
+      "id": 1,
+      "currentAccount": "461643837",
+      "agency": "3340",
+      "bank": "Santander",
+      "cooperatedId": 1
+    },
+    {
+      "id": 2,
+      "currentAccount": "13326398",
+      "agency": "2055",
+      "bank": "Bradesco",
+      "cooperatedId": 2
+    },
+    {
+      "id": 3,
+      "currentAccount": "167201",
+      "agency": "6340",
+      "bank": "Itaú",
+      "cooperatedId": 3
+    },
+    {
+      "id": 4,
+      "currentAccount": "053832145",
+      "agency": "2108",
+      "bank": "Santander",
+      "cooperatedId": 4
+    },
+    {
+      "id": 5,
+      "currentAccount": "10194X",
+      "agency": "0820",
+      "bank": "Banco do Brasil",
+      "cooperatedId": 5
+    },
+    {
+      "id": 6,
+      "currentAccount": "456319854",
+      "agency": "1297",
+      "bank": "Santander",
+      "cooperatedId": 6
+    }
+  ]
+}
